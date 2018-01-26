@@ -6,7 +6,6 @@
     margin: 0;
 	counter-reset: li;
 	list-style: none;
-	background: #B0C4DE;
 }
 .square li {
 	position: relative;
